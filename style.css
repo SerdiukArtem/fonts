@@ -77,4 +77,10 @@ button {
   background-color: #FFF;
   width: 265px;
   letter-spacing: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #FFF;
+  background: #df770e;
 }
